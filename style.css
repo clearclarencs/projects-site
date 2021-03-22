@@ -98,4 +98,19 @@
     height:25vh;
     width:25vh;
 }
-
+h1{
+    padding: 20px;
+    text-align: left;
+    color: white;
+}
+h2{
+    padding: 20px;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: underline;
+}
+a:hover{
+    text-decoration: dashed underline;
+}
